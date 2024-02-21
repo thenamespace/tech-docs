@@ -1,5 +1,6 @@
 # tech-docs
 Namespace - Technical Workflow + Smart Contract Overview
+For full Namespace Documentation, please see: https://docs.namespace.tech/ 
 
 ## Technical Workflow 
 
